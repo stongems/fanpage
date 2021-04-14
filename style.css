@@ -1,0 +1,13 @@
+h1 {
+    font-size: 50px;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.army {
+    color:green;
+}
+
+#tank {
+    color:brown;
+}
