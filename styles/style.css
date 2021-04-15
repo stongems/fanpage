@@ -11,3 +11,9 @@ h1 {
 #tank {
     color:brown;
 }
+.big {
+    font-size: large;
+}
+.small {
+    font-size: small;
+}
